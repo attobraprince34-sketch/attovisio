@@ -3,7 +3,7 @@ requires = ["setuptools>=68.0", "wheel"]
 build-backend = "setuptools.build_meta"
 [project]
 name = "attovisio"
-version = "0.1.0"
+version = "0.1.1"
 description = "Rend visibles les actions invisibles en informatique : appels, fichiers, réseau, ressources, sécurité."
 readme = "README.md"
 license = { text = "MIT" }
