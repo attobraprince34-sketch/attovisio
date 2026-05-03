@@ -455,7 +455,7 @@ SOFTWARE.
 **Attobra Prince** — Développeur Full Stack Python/Django & React, Abidjan, Côte d'Ivoire.
 
 - GitHub : [@attobraprince](https://github.com/attobraprince)
-- TikTok : [@prince_DevNet](https://tiktok.com/@prince_DevNet)
+- TikTok : [@prince_IT](https://tiktok.com/@prince_IT)
 
 ---
 
